@@ -15,4 +15,7 @@ Any Charity/Charity Foundation With A Solana Wallet.
 ### Can The User Withdraw Their Funds After Depositing?
 Yes
 
+## Disclaimer
+This Program Has Not Been Audited
+
 Powered by Solana & Port Finance
